@@ -4,8 +4,9 @@ body {
 h1 {
   font-size: 40px;
 }
-h4 {
-  padding-left: 15px;
+h5 {
+  padding-left: 20px;
+  padding-bottom: 10px;
 }
 section {
   display: flex;
@@ -92,4 +93,12 @@ h3 {
   .product {
     flex-direction: column;
   }
+}
+
+/* ---footer--- */
+h4 {
+  text-align: center;
+}
+.all {
+  text-align: center;
 }
